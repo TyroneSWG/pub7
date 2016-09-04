@@ -1,0 +1,37 @@
+alliance_battle_droid = Creature:new {
+	objectName = "@mob/creature_names:alliance_battle_droid",
+	customName = "Alliance Battle Droid",
+	socialGroup = "rebel",
+	pvpFaction = "rebel",
+	faction = "rebel",
+	level = 225,
+	chanceHit = 125,
+	damageMin = 500,
+	damageMax = 850,
+	baseXp = 12000,
+	baseHAM = 80000,
+	baseHAMmax = 90000,
+	armor = 2,
+	resists = {60,60,60,60,60,60,60,60,60},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE + OVERT,
+	creatureBitmask = PACK,
+	optionsBitmask = 128,
+	diet = NONE,
+
+
+	templates = {"object/mobile/union_sentry_droid_crafted.iff"},
+	scale = 0.5,
+	defaultAttack = "defaultdroidattack",
+	defaultWeapon = "object/weapon/ranged/vehicle/vehicle_atst_ranged.iff",
+}
+
+CreatureTemplates:addCreatureTemplate(alliance_battle_droid, "alliance_battle_droid")

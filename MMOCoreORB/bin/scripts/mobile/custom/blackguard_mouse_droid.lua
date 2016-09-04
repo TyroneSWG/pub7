@@ -1,0 +1,35 @@
+blackguard_mouse_droid = Creature:new {
+	objectName = "",
+	customName = "Blackguard Mouse Droid",
+	socialGroup = "",
+	pvpFaction = "",
+	faction = "",
+	level = 1,
+	chanceHit = 0.26,
+	damageMin = 55,
+	damageMax = 65,
+	baseXp = 10,
+	baseHAM = 50,
+	baseHAMmax = 55,
+	armor = 0,
+	resists = {0,0,0,0,0,0,0,0,0},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0.000000,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = NONE,
+	diet = HERBIVORE,
+
+	templates = {"object/mobile/mouse_droid.iff"},
+	lootGroups = {},
+	weapons = {},
+	attacks = {}
+}
+
+CreatureTemplates:addCreatureTemplate(blackguard_mouse_droid, "blackguard_mouse_droid")

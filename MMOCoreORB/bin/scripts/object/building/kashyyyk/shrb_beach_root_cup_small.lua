@@ -1,0 +1,7 @@
+object_building_kashyyyk_shrb_beach_root_cup_small = object_building_kashyyyk_shared_shrb_beach_root_cup_small:new {
+
+
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_shrb_beach_root_cup_small, "object/building/kashyyyk/_shrb_beach_root_cup_small.iff")

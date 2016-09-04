@@ -1,0 +1,108 @@
+-- Kashyyyk Scarecrow s01
+
+object_building_kashyyyk_shared_poi_kash_dead_forest_scarecrow_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_dead_forest_scarecrow_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_dead_forest_scarecrow_s01, "object/building/kashyyyk/shared_poi_kash_dead_forest_scarecrow_s01.iff")
+
+-- Kashyyyk Scarecrow s02
+
+object_building_kashyyyk_shared_poi_kash_dead_forest_scarecrow_s02 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_dead_forest_scarecrow_s02.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_dead_forest_scarecrow_s02, "object/building/kashyyyk/shared_poi_kash_dead_forest_scarecrow_s02.iff")
+
+-- Kashyyyk Scarecrow s03
+
+object_building_kashyyyk_shared_poi_kash_dead_forest_scarecrow_s03 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_dead_forest_scarecrow_s03.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_dead_forest_scarecrow_s03, "object/building/kashyyyk/shared_poi_kash_dead_forest_scarecrow_s03.iff")
+
+object_building_kashyyyk_shared_thm_kash_myyydril_caverns = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_thm_kash_myyydril_caverns.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_kash_myyydril_caverns, "object/building/kashyyyk/shared_thm_kash_myyydril_caverns.iff")
+
+object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_thm_kash_cave_myyydril_exterior.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior, "object/building/kashyyyk/shared_thm_kash_cave_myyydril_exterior.iff")
+
+
+object_building_kashyyyk_shared_mun_kash_shuttlepost_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_shuttlepost_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_shuttlepost_s01, "object/building/kashyyyk/shared_mun_kash_shuttlepost_s01.iff")
+
+object_building_kashyyyk_shared_poi_kash_rodian_hut = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_rodian_hut.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rodian_hut, "object/building/kashyyyk/shared_poi_kash_rodian_hut.iff")
+
+object_building_kashyyyk_shared_mun_kash_elder_hut = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_elder_hut.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_elder_hut, "object/building/kashyyyk/shared_mun_kash_elder_hut.iff")
+
+object_building_kashyyyk_shared_mun_kash_guard_platform = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_guard_platform.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_guard_platform, "object/building/kashyyyk/shared_mun_kash_guard_platform.iff")
+
+object_building_kashyyyk_shared_thm_kash_house_ground_lg_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_thm_kash_house_ground_lg_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_kash_house_ground_lg_s01, "object/building/kashyyyk/shared_thm_kash_house_ground_lg_s01.iff")
+
+object_building_kashyyyk_shared_thm_kash_guard_hut = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_thm_kash_guard_hut.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_kash_guard_hut, "object/building/kashyyyk/shared_thm_kash_guard_hut.iff")
+
+object_building_kashyyyk_shared_thm_kash_house_lg_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_thm_kash_house_lg_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_kash_house_lg_s01, "object/building/kashyyyk/shared_thm_kash_house_lg_s01.iff")
+
+object_building_kashyyyk_shared_mun_kash_tree_bridge_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_tree_bridge_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_tree_bridge_s01, "object/building/kashyyyk/shared_mun_kash_tree_bridge_s01.iff")
+
+object_building_kashyyyk_shared_mun_kash_imprv_streetlamp_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_imprv_streetlamp_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_imprv_streetlamp_s01, "object/building/kashyyyk/shared_mun_kash_imprv_streetlamp_s01.iff")
+
+object_building_kashyyyk_shared_mun_kash_tree_lg_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_tree_lg_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_tree_lg_s01, "object/building/kashyyyk/shared_mun_kash_tree_lg_s01.iff")
+
+object_building_kashyyyk_shared_poi_kash_slave_camp_fence_piece_s01 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_slave_camp_fence_piece_s01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_slave_camp_fence_piece_s01, "object/building/kashyyyk/shared_poi_kash_slave_camp_fence_piece_s01.iff")
+
+object_building_kashyyyk_shared_poi_kash_slave_camp_gate = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_slave_camp_gate.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_slave_camp_gate, "object/building/kashyyyk/shared_poi_kash_slave_camp_gate.iff")

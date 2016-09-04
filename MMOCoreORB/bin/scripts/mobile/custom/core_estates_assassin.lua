@@ -1,0 +1,36 @@
+core_estates_assassin = Creature:new {
+	objectName = "",
+        customName = "a Citadel of the Republic Assassin",
+	socialGroup = "rebel",
+        pvpFaction = "rebel",
+	faction = "rebel",
+	level = 265,
+	chanceHit = 23.5,
+	damageMin = 1645,
+	damageMax = 3000,
+	baseXp = 25266,
+	baseHAM = 261000,
+	baseHAMmax = 320000,
+	armor = 2,
+	resists = {60,60,60,60,60,60,60,60,60},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE,
+	creatureBitmask = PACK + HERD + KILLER,
+	optionsBitmask = 128,
+	diet = HERBIVORE,
+
+	templates = {"object/mobile/ig_88.iff"},
+	lootGroups = {},
+	defaultWeapon = "object/weapon/ranged/droid/droid_droideka_ranged.iff",
+	defaultAttack = "creaturerangedattack"
+}
+
+CreatureTemplates:addCreatureTemplate(core_estates_assassin, "core_estates_assassin")
